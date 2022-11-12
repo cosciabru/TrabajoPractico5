@@ -1,0 +1,53 @@
+.respuestas{
+font-style: Times New Roman;
+font-size: 12;
+}
+
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: blanchedalmond;
+}
+
+.p1 {
+    color: coral;
+}
+
+.p2 {
+    color: darkolivegreen;
+}
+
+.p3{
+    color: indigo;
+}
+
+.p4 {
+    color: darkgoldenrod;
+}
+
+.p5 {
+    color: brown;
+}
+
+.p6 {
+    color: aquamarine;
+}
+
+.p7 {
+    color: chartreuse;
+}
+
+.p8 {
+    color: cornflowerblue;
+}
+
+.p9 {
+    color: deeppink;
+}
+
+.p10 {
+    color: purple;
+}
